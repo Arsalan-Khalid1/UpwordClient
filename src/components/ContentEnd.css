@@ -1,0 +1,12 @@
+.mainDiv {
+  margin: 15px;
+  max-width: 100%;
+}
+.box {
+  height: 150px;
+  border: 2px solid black;
+}
+.container {
+  max-height: 650px;
+  margin: 15px;
+}
